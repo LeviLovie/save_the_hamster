@@ -7,3 +7,8 @@ Game about boy, who have a hamster, and one day the hamster escaped into a fores
 Cats will try to eat his hamster, and gosts will try to kill him, but he needs to find his hamster, Sheckastick!
 
 In game process he can find some stuff, to help him, such as flashlight, water bottle, etc.
+
+## Style
+Pixel art, dark, scary forest
+EXS
+  * https://kronbits.itch.io/rogueascii
