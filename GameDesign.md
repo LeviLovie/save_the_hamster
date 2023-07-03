@@ -1,4 +1,4 @@
-# Game Desing file
+# Game Design file
 ## Idea
 * Top-down
 * Pixel-art
